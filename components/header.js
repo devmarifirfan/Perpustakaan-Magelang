@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             <nav id="main-nav" class="hidden md:block mt-4">
                 <ul class="flex flex-col md:flex-row md:flex-wrap justify-start md:justify-center gap-4 lg:gap-8 xl:gap-20 text-left text-sm md:text-base">
-                    <li><a href="/" class="text-forest-dark hover:text-forest-dark hover:font-semibold transition">Beranda</a></li>
+                    <li><a href="/public/index.html" class="text-forest-dark hover:text-forest-dark hover:font-semibold transition">Beranda</a></li>
                     <li><a href="/pages/profile.html" class="text-forest-dark hover:text-forest-dark hover:font-semibold transition">Profil</a></li>
                     <li><a href="/pages/perpustakaan.html" class="text-forest-dark hover:text-forest-dark hover:font-semibold transition">Perpustakaan</a></li>
                     <li><a href="/pages/kearsipan.html" class="text-forest-dark hover:text-forest-dark hover:font-semibold transition">Kearsipan</a></li>
