@@ -5,6 +5,6 @@
     "tailwindcss": "^3.4.17"
   },
   "scripts": {
-    "build": "tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
+    "build": "tailwindcss -i ./src/css/input.css -o ./public/css/style.css --minify"
   }
 }
