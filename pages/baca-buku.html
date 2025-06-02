@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>baca buku</title>
+    <link rel="stylesheet" href="../public/css/style.css">
+    <link rel="icon" href="../public/assets/favicon/favicon.jpeg" type="image/x-icon">
+</head>
+
+<body>
+    <!-- header -->
+    <div id="header"></div>
+
+    <!-- Berita -->
+    <div class="w-full flex justify-center">
+        <div class="w-full max-w-[1080px] px-4 space-y-12">
+            <!-- Judul Halaman -->
+            <div>
+                <h1 class="text-forest-dark font-bold text-[32px] text-center md:text-start mb-6">Baca buku</h1>
+            </div>
+            <!-- Search Section -->
+            <section id="searchSection" class="bg-white"></section>
+
+            <!-- bagian buku -->
+            <div id="bookSection"
+                class="grid grid-cols-1 tablet:grid-cols-2 laptop:grid-cols-3 gap-x-[120px] gap-y-[80px] tablet:gap-x-[30px] justify-items-center">
+            </div>
+        </div>
+    </div>
+
+    <!-- footer -->
+    <div id="footer"></div>
+</body>
+<script src="../components/header.js"></script>
+<script src="../components/search.js"></script>
+<script src="../public/js/book.js"></script>
+<script src="../components/footer.js"></script>
+
+</html>
