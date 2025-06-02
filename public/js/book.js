@@ -3,32 +3,32 @@ const books = [
     {
         title: "Antuk Amanah Bupati Magetan",
         description: "Buku yang ditulis oleh Bupati Magetan periode 2018-2023. Menceritakan kisah dinamika pergulatan dan perjalanan Penulis hingga menjadi Bupati Magetan.",
-        image: "../public/assets/img/picture/Buku-1.png",
+        image: "../assets/img/picture/Buku-1.png",
     },
     {
         title: "Junior Writerpreneur#1 Inklusi Sosial",
         description: "Buku hasil kompetisi Penulis muda tingkat Kabupaten Magetan jenjang pendidikan SD, SMP, dan SMA/K sederajat, yang dikemas dalam kegiatan Junior...",
-        image: "../public/assets/img/picture/Buku-2.png",
+        image: "../assets/img/picture/Buku-2.png",
     },
     {
         title: "Junior Writerpreneur#2 Melejitkan Karya",
         description: "Buku hasil kompetisi Penulis muda tingkat Kabupaten Magetan jenjang pendidikan SD, SMP, SMA/K sederajat dalamm kegiatan Junior Writerpreneur #2 tahun...",
-        image: "../public/assets/img/picture/Buku-3.png",
+        image: "../assets/img/picture/Buku-3.png",
     },
     {
         title: "Junior Writerpreneur#3: Kisah Anak",
         description: "Buku hasil kompetisi Penulis muda tingkat Kabupaten Magetan jenjang pendidikan SD, SMP, dan SMA/K dalam kegiatan Junior Writerpreneur #3 tahun...",
-        image: "../public/assets/img/picture/Buku-4.png",
+        image: "../assets/img/picture/Buku-4.png",
     },
     {
         title: "Junior Writerpreneur#4: Cerita Dari",
         description: "Buku ini merupakan kompilasi tulisan 20 terbaik dari masing-masing jenjang dari SD, SMP, SMA/K sederajat dalam kompetisi Junior Writerpreneur Tahun...",
-        image: "../public/assets/img/picture/Buku-5.png",
+        image: "../assets/img/picture/Buku-5.png",
     },
     {
         title: "Menyemai Tradisi di Bumi...",
         description: "Buku hasil kegiatan Inkubator Literasi Pustaka Nusantara (ILPN) tahun 2023 Lokus Magetan.",
-        image: "../public/assets/img/picture/Buku-6.png",
+        image: "../assets/img/picture/Buku-6.png",
     },
 ];
 
